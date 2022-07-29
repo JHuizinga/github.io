@@ -1,19 +1,29 @@
 baseURL = 'https://JHuizinga/github.io/'
-languageCode = 'ja-jp'
+languageCode = 'en'
 title = 'Arisaka Dynasty'
 theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
 
 [Author]
 twitter = "englishUTKdeba"
-instagram = "username"
+instagram = "utk_englishdebate"
 
 [params]
-themeStyle = "auto"
 subtitle = "YATTE!"
 showRSSButton = false
 fadeIn = false
 dateFormat = "2006/01/02"
 #email = ""
+  comments = true
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
 
 [params.home]
 localTime = true
@@ -43,27 +53,27 @@ facebook = true
 [[menu.main]]
     parent = "samples"
     name = "Current"
-    url = ""
+    url = "currentgeneration"
     weight = 1
 
 [[menu.main]]
     parent = "samples"
     name = "OB"
-    url = ""
+    url = "OB"
     weight = 2
 
 [[menu.main]]
     parent = "samples"
     name = "Educator"
-    url = "post/2016-03-08-code-sample"
+    url = "educator"
     weight = 3
 
 [[menu.main]]
     name = "Support"
-    url = "tags"
+    url = "support"
     weight = 3
 
 [[menu.main]]
     name = "Achievement"
-    url = "tags"
+    url = "achievement"
     weight = 4
