@@ -1,7 +1,7 @@
 baseURL = 'https://JHuizinga/github.io/'
 languageCode = 'en'
 title = 'Arisaka Dynasty'
-theme = "hugo-PaperMod"
+theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
