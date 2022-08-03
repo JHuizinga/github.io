@@ -4,6 +4,11 @@ date: 2022-08-01T18:49:46+09:00
 
 ---
 
+支援
+
+<!--more-->
+
+
 ## We need your Support!
 
 
@@ -15,5 +20,7 @@ You have multiple options to support.
 - Judge in daily practices
 - Judge in Tournaments
 ### Support financially
+- Coming soon...
+
 
 

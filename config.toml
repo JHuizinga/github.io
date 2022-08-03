@@ -4,7 +4,9 @@ title = 'Arisaka Dynasty'
 theme = "beautifulhugo"
 
 
+
 [Author]
+name = "Uyu"
 twitter = "megalorrountas"
 mastodon = "mstdn.maud.io/web/@uyu"
 
@@ -46,16 +48,21 @@ facebook = true
     weight = 2
 
 [[menu.main]]
-    name = "Support"
-    url = "page/support/"
-    weight = 3
-
-[[menu.main]]
     name = "Achievements"
     url = "page/achievements/"
     weight = 4
 
+[[menu.main]]
+    name = "Support"
+    url = "page/support/"
+    weight = 5
 
-   
+[[menu.main]]
+    name = "Almuni"
+    url = "page/almuni/"
+    weight = 10
+
+
+    
 
 
