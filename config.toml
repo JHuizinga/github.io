@@ -1,4 +1,4 @@
-baseURL = 'https://jhuizinga/github.io/github/io/'
+baseURL = 'https://jhuizinga/github.io/github.io/'
 languageCode = 'ja-jp'
 title = 'Arisaka Dynasty'
 theme = "beautifulhugo"
