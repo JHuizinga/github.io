@@ -1,4 +1,4 @@
-baseURL = 'https://JHuizinga/github.io/'
+baseURL = 'https://jhuizinga/github.io/'
 languageCode = 'ja-jp'
 title = 'Arisaka Dynasty'
 theme = "beautifulhugo"
@@ -13,7 +13,7 @@ subtitle = "Yatte!"
 showRSSButton = false
 fadeIn = false
 dateFormat = "2006/01/02"
-#email = ""
+#email = "asojae1894@gmail.com"
   comments = true
   readingTime = true
   wordCount = true
