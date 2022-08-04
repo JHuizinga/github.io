@@ -21,7 +21,7 @@ thumbnailImage:
 
 会員イチオシのラーメン屋を画像とともに紹介します。
 
-<details><summary><h3>栃木県本部</h3></summary><div>
+<h3>栃木県本部</h3>
 
 - 元町家
 - 板橋家
@@ -32,10 +32,10 @@ thumbnailImage:
 {{< figure src="highmount.jpg" title="小山にある二郎" class="center" width="160" height="320" >}}
 - 
 
-</details><div>
 
 
-<details><summary><h3>県外支部</h3></summary><div>
+
+<h3>県外支部</h3>
 
 - 青葉(大宮)
 
@@ -45,4 +45,3 @@ thumbnailImage:
 {{< figure src="hukusenro.jpg" title="福仙楼そば" class="center" width="160" height="320" >}}
 
 
-</details><div>
