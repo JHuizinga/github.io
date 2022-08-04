@@ -22,13 +22,13 @@
       <pubDate>Thu, 04 Aug 2022 20:14:45 +0900</pubDate>
       
       <guid>https://jhuizinga.github.io/github.io/page/ramen/</guid>
-      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://jhuizinga.github.io/github.io/css/hugo-easy-gallery.css&#34; /&gt;
+      <description>&lt;link rel=&#34;stylesheet&#34; href=https://jhuizinga.github.io/github.io/github.io/css/hugo-easy-gallery.css /&gt;
 &lt;div class=&#34;box&#34; style=&#34;max-width:100&#34;&gt;
   &lt;figure class=&#34;center&#34; itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
     &lt;div class=&#34;img&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;motomachi.jpg&#34; alt=&#34;motomachi.jpg&#34;/&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://jhuizinga.github.io/github.io/github.io/motomachi.jpg&#34; /&gt;
     &lt;/div&gt;
-    &lt;a href=&#34;motomachi.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+    &lt;a href=&#34;https://jhuizinga.github.io/github.io/github.io/motomachi.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
       &lt;figcaption&gt;&lt;h4&gt;ラーメン同好会の聖地、元町家&lt;/h4&gt;
       &lt;/figcaption&gt;
   &lt;/figure&gt;
