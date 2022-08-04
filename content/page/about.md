@@ -14,4 +14,6 @@ date: 2022-08-01T18:49:11+09:00
 
 
 ## ラーメン同好会
-{{</* figure link="/img/motomachi.jpg" caption="聖地" */>}}
+{{< figure src="/images/motomachi.jpg" title="聖地" class="center" width="320" height="640" >}}
+
+

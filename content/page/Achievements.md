@@ -52,7 +52,8 @@ date: 2022-08-01T18:50:40+09:00
  - Academic
      - Prefectural
 
-     - Nationals
+     - Nationals 
+        - **HEnDA Nationals 2012 Champion**
 
  - Schools
 
@@ -61,6 +62,9 @@ date: 2022-08-01T18:50:40+09:00
 ### 4代目
 - Parliamentary
     - HPDU 2014 3rd Utsunomiya A, Utsunomiya B
+
+- Academic
+    - HEnDA Nationals 2013
 
 - Schools
     - **WSDC Turkey**
@@ -71,7 +75,7 @@ date: 2022-08-01T18:50:40+09:00
     - HPDU 2015 Grand Finalist
 
 - Academic
-    - HEnDA 2nd
+    - HEnDA Nationals 2014 2nd
 
 - Schools
     - **WSDC Thailand** 
@@ -82,10 +86,10 @@ date: 2022-08-01T18:50:40+09:00
     - **HPDU 2016 Champion**
 
 - Academic 
-    - HEnDA 2nd
+    - HEnDA Nationals 2015 2nd
 
 - Schools
-    - **WSDC Team Japan Takua Baba**
+    - **WSDC Team Japan**
 
 
 ---
@@ -100,10 +104,10 @@ date: 2022-08-01T18:50:40+09:00
 - Academic
     - Prefectural
     - Nationals
-        - HEnDA 2nd 
+        - HEnDA Nationals 2016 2nd 
 
 - Schools
-    - **WSDC Team Japan Mashu Kobayashi & Masahito Nakamichi**
+    - **WSDC Team Japan**
     - YTN-HUFS Youth English Debating Championship Quarter Finalst
 
 
@@ -116,7 +120,9 @@ date: 2022-08-01T18:50:40+09:00
 
  - Academic
      - Prefectural
+        - D-1 2017
      - Nationals
+        - HEnDA Nationlas 2017
 
  - Schools
     - YTN-HUFS Youth English Debating Championship
@@ -132,7 +138,9 @@ date: 2022-08-01T18:50:40+09:00
 
  - Academic
      - Prefectural
+        - D-1 2018 準優勝 宇高B
      - Nationals
+        - HEnDA 2018 3rd
 
  - Schools
     
@@ -141,51 +149,60 @@ date: 2022-08-01T18:50:40+09:00
 ### 10代目
 - Parliamentary
     - Prefectural
-
+        - HPDU栃木県予選　準優勝
     - Nationals
+        - HPDU 37th(1勝3敗)
 
- - Academic
-     - Prefectural
-     - Nationals
-        - **HEnDA Champion**
+- Academic
+    - Prefectural
+        - D-1 準優勝
+    - regional 
+        - Summer Cup 準優勝
+    - Nationals
+        - **HEnDA 2019 Champion**
+
+- Schools
+    - 3rd JWSDC 5th 宇高1 & 2
+ 
 
 ---
 ### 11代目
 - Parliamentary
     - Prefectural
+        - HPDU栃木県予選 2021 準優勝
+        - 冬季大会　Asian部門 優勝　宇高A 準優勝　宇高B
 
     - Nationals
+        - HPDU Nationals 2021 14th
 
  - Academic
      - Prefectural
+        - D-1 優勝　宇高A 準優勝 宇高B
      - Nationals
+        - HEnDA Nationals 2020 10th
 
 ---
 ### 12代目
 - Parliamentary
     - Prefectural
+        - HPDU 栃木県予選　優勝　宇高A
+        - 冬季大会　優勝　宇高A
 
     - Nationals
+        - HPDU Nationals 2022 5th
 
  - Academic
      - Prefectural
+        - D-1 優勝 宇高B 準優勝　宇高A
      - Nationals
+        - HEnDA Nationlals 2021 3rd(breaking 4th)
 
 ---
 ### 13代目
 - Parliamentary
     - Prefectural
-
-    - Nationals
-
- - Academic
-     - Prefectural
-     - Nationals
-
----
-### 14代目
-- Parliamentary
-    - Prefectural
+        - 春季大会 2022 優勝 宇高A
+        - 
 
     - Nationals
 

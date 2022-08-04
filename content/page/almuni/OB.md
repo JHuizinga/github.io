@@ -3,10 +3,9 @@
 title: "OB"
 date: 2022-08-03T18:15:22+09:00
 
-categories: ["", ""]
+
 description: ""
 image: ""
-draft: True
 author: "Uyu"
 weight: 2
 
@@ -96,7 +95,7 @@ OBの主な実績を確認することができます
 
 
 ***
-## 2019
+<details><summary> ## 2019 </summary>
 - Cape Town WUDC 2019 EFL Champion Keio A Takua Baba(6) 
     - [Grand Final Video](https://youtu.be/vE2GwaPYknY?t=2000)
 
@@ -117,6 +116,8 @@ OBの主な実績を確認することができます
 
 - Australs 
     - Braking Adjudicator Hikari Tamura(5)
+
+<details>
 
 ***
 ## 2018
