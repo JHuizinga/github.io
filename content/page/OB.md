@@ -3,14 +3,10 @@
 title: "OB"
 date: 2022-08-03T18:15:22+09:00
 author: "Uyu"
-weight: 2
 
 ---
 
 OBの主な実績を確認することができます
-
-<!--more-->
-
 
 ## 2022
 - The Kansai 
