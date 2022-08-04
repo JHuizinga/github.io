@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arisaka Dynasty</title>
+    <link>https://jhuizinga.github.io/github.io/page/almuni/</link>
+    <description>Recent content on Arisaka Dynasty</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Wed, 03 Aug 2022 18:19:08 +0900</lastBuildDate><atom:link href="https://jhuizinga.github.io/github.io/page/almuni/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://jhuizinga.github.io/github.io/page/almuni/about/</link>
+      <pubDate>Wed, 03 Aug 2022 18:19:08 +0900</pubDate>
+      
+      <guid>https://jhuizinga.github.io/github.io/page/almuni/about/</guid>
+      <description>&lt;p&gt;同窓会の詳細情報を確認することができます。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>OB</title>
+      <link>https://jhuizinga.github.io/github.io/page/almuni/ob/</link>
+      <pubDate>Wed, 03 Aug 2022 18:15:22 +0900</pubDate>
+      
+      <guid>https://jhuizinga.github.io/github.io/page/almuni/ob/</guid>
+      <description>&lt;p&gt;OBの主な実績を確認することができます&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
