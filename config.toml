@@ -13,6 +13,7 @@ mastodon = "mstdn.maud.io/web/@uyu"
 [params]
 subtitle = "Yatte!"
 showRSSButton = false
+logo = "images/avatar.jpg"
 fadeIn = false
 dateFormat = "2006/01/02"
 #email = "asojae1894@gmail.com"

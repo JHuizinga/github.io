@@ -124,7 +124,7 @@ OBの主な実績を確認することができます
 ***
 ## 2017
 - Dutch WUDC 2017 EFL Semi-Finalist Keio B Hikari Tamura(5)
-    -[Semi Final Video](https://youtu.be/S6xjRDDrve4?t=2958)
+    - [Semi Final Video](https://youtu.be/S6xjRDDrve4?t=2958)
 - JPDU Spring Tournament 
     - Semi-Finalist Hikari Tamura(5)
  

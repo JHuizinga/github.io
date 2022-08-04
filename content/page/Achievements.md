@@ -92,7 +92,7 @@ date: 2022-08-01T18:50:40+09:00
     - **WSDC Team Japan**
 
 - Others
-    - Harverd研修(トビタテ！留学Japanプログラム)
+    - Harverd研修(トビタテ！留学Japan)
 
 
 ---
@@ -202,11 +202,9 @@ date: 2022-08-01T18:50:40+09:00
 ---
 ### 13代目
 - Parliamentary
-    - Prefectural
+     - Prefectural
         - 春季大会 2022 優勝 宇高A
-        - 
-
-    - Nationals
+     - Nationals
 
  - Academic
      - Prefectural
