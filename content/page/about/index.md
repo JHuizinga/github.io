@@ -6,6 +6,7 @@ description: ""
 image: ""
 author: ""
 weight: 
+thumbnailImage: //localhost:1313/github.io/page/ramen/#&gid=1&pid=1
 ---
 
 某英語部OB会のテストページです。

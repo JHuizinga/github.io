@@ -8,6 +8,8 @@ author: "Uyu"
 
 OBの主な実績を確認することができます
 
+<!--more-->
+
 ## 2022
 - The Kansai 
     - Grand Finalist Takua Baba(6)
