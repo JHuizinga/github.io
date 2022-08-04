@@ -47,7 +47,7 @@ date: 2022-08-01T18:50:40+09:00
     - Prefectural
 
     - Nationals
-        - HPDU 2013 Champion
+        - **HPDU 2013 Champion**
 
  - Academic
      - Prefectural
@@ -63,7 +63,7 @@ date: 2022-08-01T18:50:40+09:00
     - HPDU 2014 3rd Utsunomiya A, Utsunomiya B
 
 - Schools
-    - WSDC Turkey
+    - **WSDC Turkey**
 
 ---
 ### 5代目
@@ -74,18 +74,18 @@ date: 2022-08-01T18:50:40+09:00
     - HEnDA 2nd
 
 - Schools
-    - WSDC Thailand 
+    - **WSDC Thailand** 
 
 ---
 ### 6代目
 - Parliamentary
-    - HPDU 2016 Champion
+    - **HPDU 2016 Champion**
 
 - Academic 
     - HEnDA 2nd
 
 - Schools
-    - WSDC Team Japan
+    - **WSDC Team Japan Takua Baba**
 
 
 ---
@@ -95,7 +95,7 @@ date: 2022-08-01T18:50:40+09:00
 - Parliamentary
     - Prefectural
     - Nationals
-        - HPDU 2017 Champion
+        - **HPDU 2017 Champion**
 
 - Academic
     - Prefectural
@@ -103,7 +103,7 @@ date: 2022-08-01T18:50:40+09:00
         - HEnDA 2nd 
 
 - Schools
-    - WSDC Team Japan
+    - **WSDC Team Japan Mashu Kobayashi & Masahito Nakamichi**
     - YTN-HUFS Youth English Debating Championship Quarter Finalst
 
 
@@ -147,6 +147,7 @@ date: 2022-08-01T18:50:40+09:00
  - Academic
      - Prefectural
      - Nationals
+        - **HEnDA Champion**
 
 ---
 ### 11代目
