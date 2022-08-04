@@ -89,7 +89,6 @@ date: 2022-08-01T18:50:40+09:00
     - HEnDA Nationals 2015 2nd
 
 - Schools
-<<<<<<< HEAD
     - **WSDC Team Japan**
 
 
@@ -155,7 +154,6 @@ date: 2022-08-01T18:50:40+09:00
     - Nationals
         - HPDU 37th(1勝3敗)
 
-<<<<<<< HEAD
 - Academic
     - Prefectural
         - D-1 準優勝
@@ -167,13 +165,10 @@ date: 2022-08-01T18:50:40+09:00
 - Schools
     - 3rd JWSDC 5th 宇高1 & 2
  
-=======
  - Academic
      - Prefectural
      - Nationals
         - **HEnDA Champion**
->>>>>>> ffa20754877773f0a75a4c6a111dac40f4e223f8
-
 ---
 ### 11代目
 - Parliamentary
