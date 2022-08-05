@@ -6,7 +6,7 @@ author: "Uyu"
 
 ---
 
-OBの主な実績を確認することができます
+OBの主な実績を確認することができます。
 
 <!--more-->
 
@@ -43,7 +43,7 @@ OBの主な実績を確認することができます
 
 - Nepal Australs 2021 
     - ESL Quarterfinalist Keio 1 Takua Baba(6)
-- Shanghai-SIDO Hanoi ABP 2021 
+- Shanghai-SIDO Hanoi ABP 2020
     - Open Octofinalist Takua Baba(6)
 
 - Doxbridge Worlds
@@ -59,11 +59,10 @@ OBの主な実績を確認することができます
 
 ***
 ## 2020
-- JPDU Spring Tournament 
 - JPDU Autumn Tournament
     - Semi finalist Kosei Masube(7)
     
-- Japan BP
+- Japan BP 2020
     - TD Tsubasa Ito
     - Quarter finalist Kosei Masube(7)
     - Pre Quarter finalist Ritsu Murata(7)
@@ -76,7 +75,8 @@ OBの主な実績を確認することができます
 
 - Monash Australs 2020
     - Open Octfinalit Melbourne 1 Takua Baba(6)
-        - [Round4](https://youtu.be/ulFBbE3K0nM?t=510)
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/ulFBbE3K0nM?start=510" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 
@@ -112,7 +112,7 @@ OBの主な実績を確認することができます
     - Semi-Finalist KDS A Hikari Tamura(5), Takua Baba(6)
 - JPDU Autumn Tournament 
     - Grand Finalist Hit-U C Eisuke Aoyagi(7)
-        - https://youtu.be/UV1aPQDIaVU?t=1111
+        - [Grand Final](https://youtu.be/UV1aPQDIaVU?t=1111)
     - Semi Finalist Takua Baba(6)
     - Best Adj Hikari Tamura
 
@@ -148,14 +148,16 @@ OBの主な実績を確認することができます
 
 ***
 ## 2017
-- Dutch WUDC 2017 EFL Semi-Finalist Keio B Hikari Tamura(5)
-    - [Video](https://youtu.be/S6xjRDDrve4?t=2958)
+- **Dutch WUDC 2017 EFL Semi-Finalist Keio B Hikari Tamura(5)**
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/S6xjRDDrve4?start=2958" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 - JPDU Spring Tournament 
     - Semi-Finalist Hikari Tamura(5)
     - Semi-Finalist Kiyoshi Kawakami(4)
  
 - JPDU Autumn Tournament 
     - Champion Hikari Tamura(5)
+
 - Japan BP
 
 - Gemini Cup 2017

@@ -34,7 +34,7 @@ facebook = true
 
 [[menu.main]]
     name = "Blog"
-    url = "page/blog/"
+    url = "blog/"
     weight = 6
 
 [[menu.main]]
@@ -45,18 +45,18 @@ facebook = true
 [[menu.main]]
     parent = "Arisaka"
     name = "About"
-    url = "page/about/"
+    url = "/about/"
     weight = 1
 
 [[menu.main]]
     parent = "Arisaka"
     name = "ラーメン同好会"
-    url = "page/ramen/"
+    url = "ramen/"
     weight = 2
 
 
 [[menu.main]]
-    url = "page/member/"
+    url = "member/"
     name = "Members"
     weight = 2
 
@@ -68,23 +68,23 @@ facebook = true
 [[menu.main]]
     parent = "Achievements"
     name = "宇高英語部"
-    url = "page/achievements/"
+    url = "/achievements/"
     weight = 1
 
 [[menu.main]]
     parent = "Achievements"
     name = "OB"
-    url = "page/ob/"
+    url = "/ob/"
     weight = 2
 
 [[menu.main]]
     name = "Support"
-    url = "page/support/"
+    url = "/support/"
     weight = 5
 
 [[menu.main]]
     name = "Almuni"
-    url = "page/almuni/"
+    url = "/almuni/"
     weight = 10
 
 

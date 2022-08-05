@@ -1,10 +1,5 @@
-このページはビルド中です！
-現在老害會が現役を支援できるように組織化の計画を立てています。
 
 
-
-
-
-
+This page is now under construction...
 
 

@@ -6,7 +6,7 @@ description: ""
 image: ""
 author: ""
 weight: 
-thumbnailImage: //localhost:1313/github.io/page/ramen/#&gid=1&pid=1
+
 ---
 
 某英語部OB会のテストページです。
@@ -17,25 +17,14 @@ thumbnailImage: //localhost:1313/github.io/page/ramen/#&gid=1&pid=1
 ## 英語部
 英語ディベートを主な活動内容とし、HEnDA, HPDU, Schoolsなどの形式に取り組んでいます。
 
+### 1. 活動内容
+- HEnDA
+- Parliamentary Debate
+- Schools
 
 
-
-<details><summary><b>History</b></summary>
-
-設立
-
+### 2. History
+- 設立
+- 赤レンガ杯
 
 
-
-</details>
-
-
-
-
-<details><summary>History</summary>
-
-
-初代
-
-
-</details>

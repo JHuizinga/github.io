@@ -22,12 +22,7 @@
       <pubDate>Thu, 04 Aug 2022 20:14:45 +0900</pubDate>
       
       <guid>https://jhuizinga.github.io/github.io/page/ramen/</guid>
-      <description>&lt;figure&gt;
-  &lt;img src=&#34;motomachi.jpg&#34;/&gt;
-  &lt;figcaption&gt;
-      &lt;h4&gt;聖地&lt;/h4&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;</description>
+      <description>&lt;p&gt;ラーメンを食す活動をしています。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -46,34 +41,6 @@
       
       <guid>https://jhuizinga.github.io/github.io/page/ob/</guid>
       <description>&lt;p&gt;OBの主な実績を確認することができます&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Achievements</title>
-      <link>https://jhuizinga.github.io/github.io/page/achievements/</link>
-      <pubDate>Mon, 01 Aug 2022 18:50:40 +0900</pubDate>
-      
-      <guid>https://jhuizinga.github.io/github.io/page/achievements/</guid>
-      <description>&lt;hr&gt;
-&lt;p&gt;歴代の大会成績を表示します&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Support</title>
-      <link>https://jhuizinga.github.io/github.io/page/support/</link>
-      <pubDate>Mon, 01 Aug 2022 18:49:46 +0900</pubDate>
-      
-      <guid>https://jhuizinga.github.io/github.io/page/support/</guid>
-      <description>&lt;p&gt;支援&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Members</title>
-      <link>https://jhuizinga.github.io/github.io/page/member/</link>
-      <pubDate>Mon, 01 Aug 2022 18:49:31 +0900</pubDate>
-      
-      <guid>https://jhuizinga.github.io/github.io/page/member/</guid>
-      <description>&lt;p&gt;部員を表示します&lt;/p&gt;</description>
     </item>
     
   </channel>

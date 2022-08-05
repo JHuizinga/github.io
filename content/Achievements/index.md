@@ -18,7 +18,6 @@ date: 2022-08-01T18:50:40+09:00
 
  - Academic
      - Prefectural
-     - Nationals
 
  - Schools  
 
@@ -33,7 +32,9 @@ date: 2022-08-01T18:50:40+09:00
 
  - Academic
      - Prefectural
-     - Nationals
+     - HEnDA Nationals 2011 in 石川
+        - Breaking 7th 
+        - 5th
 
  - Schools
 
@@ -52,9 +53,12 @@ date: 2022-08-01T18:50:40+09:00
  - Academic
      - Prefectural
 
-     - Nationals 
-        - **HEnDA Nationals 2012 Champion**
-            - [Grand Final](https://youtu.be/2MWhXEwnhbI)
+
+    - **HEnDA Nationals 2012** 
+        - Breaking 2nd
+        - **優勝** 
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/2MWhXEwnhbI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
  - Schools
 
@@ -66,9 +70,12 @@ date: 2022-08-01T18:50:40+09:00
 
 - Academic
     - HEnDA Nationals 2013
+        - Breaking 3rd
+        - 3rd 
+
 
 - Schools
-    - **WSDC Turkey**
+    - **Antalya WSDC 2013**
 
 ---
 ### 5代目
@@ -76,7 +83,9 @@ date: 2022-08-01T18:50:40+09:00
     - HPDU 2015 Grand Finalist
 
 - Academic
-    - HEnDA Nationals 2014 2nd
+    - HEnDA Nationals 2014 
+        - Breaking 1st
+        - 準優勝
         <iframe width="560" height="315" src="https://www.youtube.com/embed/bQAOSxBVoK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Schools
@@ -88,12 +97,15 @@ date: 2022-08-01T18:50:40+09:00
     - **HPDU 2016 Champion**
 
 - Academic 
-    - HEnDA Nationals 2015 2nd
+    - HEnDA Nationals 2015 in 岐阜
+        - Breaking 1st
+        - 準優勝
         - [Grand Final](https://youtu.be/bQAOSxBVoK4)
 
 - Schools
     - **WSDC Team Japan**
-        - [Round 1](https://youtu.be/TIt0iZWCpzc)
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/TIt0iZWCpzc?start=1116" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 - Others
     - Harverd研修(トビタテ！留学Japan)
@@ -110,13 +122,15 @@ date: 2022-08-01T18:50:40+09:00
 
 - Academic
     - Prefectural
-    - Nationals
-        - HEnDA Nationals 2016 2nd 
-            - [Grand Final](https://youtu.be/dErZyer9eVs)
+    - HEnDA Nationals 2016 in 茨城
+        - Breaking 2nd
+        - 準優勝 
+         <iframe width="560" height="315" src="https://www.youtube.com/embed/dErZyer9eVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Schools
     - **WSDC Team Japan**
-        - [Round 4](https://youtu.be/9lMrHy1jIEc)
+       <iframe width="560" height="315" src="https://www.youtube.com/embed/9lMrHy1jIEc?start=1271" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
     - YTN-HUFS Youth English Debating Championship Quarter Finalst
 
 
@@ -130,8 +144,9 @@ date: 2022-08-01T18:50:40+09:00
  - Academic
      - Prefectural
         - D-1 2017
-     - Nationals
-        - HEnDA Nationlas 2017
+    - HEnDA Nationlas 2017 in 埼玉
+            - Breaking 1st
+            - 5th 
 
  - Schools
     - YTN-HUFS Youth English Debating Championship
@@ -148,8 +163,10 @@ date: 2022-08-01T18:50:40+09:00
  - Academic
      - Prefectural
         - D-1 2018 準優勝 宇高B
-     - Nationals
-        - HEnDA 2018 3rd
+
+    - HEnDA Nationals 2018 in 福井
+        - 3rd
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ClRBlian4rw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  - Schools
     
@@ -168,8 +185,9 @@ date: 2022-08-01T18:50:40+09:00
     - regional 
         - Summer Cup 準優勝
     - Nationals
-        - **HEnDA 2019 Champion**
-            - [Grand Final](https://youtu.be/VNMhbDfNpBs)
+        - **HEnDA 2019 in 群馬**
+            - **Champion**
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/VNMhbDfNpBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Schools
     - 3rd JWSDC 5th 宇高1 & 2
@@ -181,14 +199,14 @@ date: 2022-08-01T18:50:40+09:00
         - HPDU栃木県予選 2021 準優勝
         - 冬季大会　Asian部門 優勝　宇高A 準優勝　宇高B
 
-    - Nationals
-        - HPDU Nationals 2021 14th
+    - HPDU Nationals 2021 
+        - 14th
 
  - Academic
      - Prefectural
         - D-1 優勝　宇高A 準優勝 宇高B
-     - Nationals
-        - HEnDA Nationals 2020 10th
+    - HEnDA Nationals 2020 Online
+        - 10th
 
 ---
 ### 12代目
@@ -197,14 +215,15 @@ date: 2022-08-01T18:50:40+09:00
         - HPDU 栃木県予選　優勝　宇高A
         - 冬季大会　優勝　宇高A
 
-    - Nationals
-        - HPDU Nationals 2022 5th
+    - HPDU Nationals 2022 
+        - 5th
 
  - Academic
      - Prefectural
         - D-1 優勝 宇高B 準優勝　宇高A
-     - Nationals
-        - HEnDA Nationlals 2021 3rd(breaking 4th)
+    - HEnDA Nationlals 2021 
+        - breaking 4th
+        - 3rd
 
 ---
 ### 13代目
