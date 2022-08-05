@@ -2,9 +2,9 @@
 &lt;div class="box" style="max-width:100">
 &lt;figure class="center" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
 &lt;div class="img">
-&lt;img itemprop="thumbnail" src="https://jhuizinga.github.io/github.io/github.io/motomachi.jpg" />
+&lt;img itemprop="thumbnail" src="https://jhuizinga.github.io/github.io/img/motomachi.jpg" />
 &lt;/div>
-&lt;a href="https://jhuizinga.github.io/github.io/github.io/motomachi.jpg" itemprop="contentUrl">&lt;/a>
+&lt;a href="https://jhuizinga.github.io/github.io/img/motomachi.jpg" itemprop="contentUrl">&lt;/a>
 &lt;figcaption>&lt;h4>ラーメン同好会の聖地、元町家&lt;/h4>
 &lt;/figcaption>
 &lt;/figure>
