@@ -7,29 +7,58 @@ description: ""
 tags: ["ramen"]
 author: "Uyu"
 weight: 
+image: "motomachi.jpg"
 ---
 
-{{< figure src="/img/motomachi.jpg" title="ラーメン同好会の聖地、元町家" class="center" width="100" height="200" >}}
+
+
+<figure>
+  <img src="motomachi.jpg"/>
+  <figcaption>
+      <h4>聖地</h4>
+  </figcaption>
+</figure>
+
 
 <!--more-->
+
+<!--
+figure shortcodeをいじったら壊れたので、治るまでraw HTMLで書きます
+-->
 
 ラーメンを食す活動をしています。
 
 <h3>栃木県本部</h3>
 
 - #### 元町家
-{{< figure src="/img/motomachinami.jpg" title="並キャベツ九条ネギ" class="center" width="100" height="200" >}}
+{{< figure src="/img/motomachinami.jpg" title="並キャベツ九条ネギ" class="center"  >}}
+
+
+<figure>
+  <img src="img/motomachinami.jpg"/>
+  <figcaption>
+      <h5>並キャベツ九条ネギ</h5>
+  </figcaption>
+</figure>
+
+
 
 - #### 板橋家
 - #### どる屋
 - #### ひばり
 - #### ガジロー
 
-{{< figure src="/img/gajiro.jpg" title="まぜそば中小豚" class="center" width="160" height="320" >}}  
+<figure>
+  <img src="img/gajiro.jpg"/>
+  <figcaption>
+      <h5>まぜそば中小豚</h5>
+  </figcaption>
+</figure>
+
 
 - #### ハイマウント
 
-{{< figure src="/img/highmount.jpg" title="" class="center" width="160" height="320" >}}
+{{< figure src="img/highmount.jpg" title="" class="center" >}}
 
 
 
@@ -40,25 +69,25 @@ weight:
 
 - #### 麺屋こころ
 
-{{< figure src="/img/kokor.jpg" title="台湾まぜそば玉ねぎ" class="center" width="160" height="320" >}}
+{{< figure src="img/kokor.jpg" title="台湾まぜそば玉ねぎ" class="center"  >}}
 
 - #### 豚山(元住吉)
 
-{{< figure src="/img/butayama.jpg" title="小豚" class="center" width="160" height="320" >}}
+{{< figure src="img/butayama.jpg" title="小豚" class="center" >}}
 
 - #### 豚星
 
-{{< figure src="/img/butaboshi.jpg" title="" class="center" width="160" height="320" >}}
+{{< figure src="img/butaboshi.jpg" title="" class="center"  >}}
 
 - #### どん
 
-{{< figure src="/img/don.jpg" title="" class="center" width="160" height="320" >}}
+{{< figure src="img/don.jpg" title="" class="center"  >}}
 
 - #### 福仙楼(北白川)
 
-{{< figure src="/img/hukusenro.jpg" title="福仙楼そば" class="center" width="160" height="320" >}}
+{{< figure src="img/hukusenro.jpg" title="福仙楼そば" class="center"  >}}
 
 
 - #### 池田屋(一乗寺)
 
-{{< figure src="/img/ikedaya.jpg" title="小" class="center" width="160" height="320" >}}
+{{< figure src="img/ikedaya.jpg" title="小" class="center"  >}}
