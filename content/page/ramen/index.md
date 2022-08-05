@@ -10,15 +10,7 @@ weight:
 image: "motomachi.jpg"
 ---
 
-
-
-<figure>
-  <img src="motomachi.jpg"/>
-  <figcaption>
-      <h4>聖地</h4>
-  </figcaption>
-</figure>
-
+ラーメンを食す活動をしています。
 
 <!--more-->
 
@@ -26,13 +18,18 @@ image: "motomachi.jpg"
 figure shortcodeをいじったら壊れたので、治るまでraw HTMLで書きます
 -->
 
-ラーメンを食す活動をしています。
+
 
 <h3>栃木県本部</h3>
 
 - #### 元町家
-{{< figure src="/img/motomachinami.jpg" title="並キャベツ九条ネギ" class="center"  >}}
 
+<figure>
+  <img src="motomachi.jpg"/>
+  <figcaption>
+      <h5>聖地</h5>
+  </figcaption>
+</figure>
 
 <figure>
   <img src="img/motomachinami.jpg"/>
