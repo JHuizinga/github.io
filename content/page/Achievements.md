@@ -54,6 +54,7 @@ date: 2022-08-01T18:50:40+09:00
 
      - Nationals 
         - **HEnDA Nationals 2012 Champion**
+            - [Grand Final](https://youtu.be/2MWhXEwnhbI)
 
  - Schools
 
@@ -76,6 +77,7 @@ date: 2022-08-01T18:50:40+09:00
 
 - Academic
     - HEnDA Nationals 2014 2nd
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/bQAOSxBVoK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Schools
     - **WSDC Thailand** 
@@ -87,9 +89,11 @@ date: 2022-08-01T18:50:40+09:00
 
 - Academic 
     - HEnDA Nationals 2015 2nd
+        - [Grand Final](https://youtu.be/bQAOSxBVoK4)
 
 - Schools
     - **WSDC Team Japan**
+        - [Round 1](https://youtu.be/TIt0iZWCpzc)
 
 - Others
     - Harverd研修(トビタテ！留学Japan)
@@ -108,9 +112,11 @@ date: 2022-08-01T18:50:40+09:00
     - Prefectural
     - Nationals
         - HEnDA Nationals 2016 2nd 
+            - [Grand Final](https://youtu.be/dErZyer9eVs)
 
 - Schools
     - **WSDC Team Japan**
+        - [Round 4](https://youtu.be/9lMrHy1jIEc)
     - YTN-HUFS Youth English Debating Championship Quarter Finalst
 
 
@@ -163,6 +169,7 @@ date: 2022-08-01T18:50:40+09:00
         - Summer Cup 準優勝
     - Nationals
         - **HEnDA 2019 Champion**
+            - [Grand Final](https://youtu.be/VNMhbDfNpBs)
 
 - Schools
     - 3rd JWSDC 5th 宇高1 & 2

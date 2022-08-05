@@ -7,7 +7,6 @@ description: ""
 tags: ["ramen"]
 author: "Uyu"
 weight: 
-image: "motomachi.jpg"
 ---
 
 ラーメンを食す活動をしています。

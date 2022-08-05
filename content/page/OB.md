@@ -19,10 +19,6 @@ OBの主な実績を確認することができます
     - CA Takua Baba(6)
 
 
-
-
-
-
 ***
 
 ## 2021
@@ -78,11 +74,9 @@ OBの主な実績を確認することができます
 - Malaysia ABP 2020 
     - Open Octofinalist Keio C Takua Baba(6)
 
-- Monash Australs 
+- Monash Australs 2020
     - Open Octfinalit Melbourne 1 Takua Baba(6)
-
-
-
+        - [Round4](https://youtu.be/ulFBbE3K0nM?t=510)
 
 
 
@@ -90,8 +84,9 @@ OBの主な実績を確認することができます
 
 ***
 ## 2019
-- Cape Town WUDC 2019 EFL Champion Keio A Takua Baba(6) 
-    - [Grand Final Video](https://youtu.be/vE2GwaPYknY?t=2000)
+- **Cape Town WUDC 2019 EFL Champion Keio A Takua Baba(6)**
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/vE2GwaPYknY?start=2001" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 - JPDU Spring Tournament 
     - Champion Hikari Tamura(5)
@@ -114,29 +109,75 @@ OBの主な実績を確認することができます
 ***
 ## 2018
 - JPDU Spring Tournament 
-    - Semi-Finalist Hikari Tamura(5), Takua Baba(6)
+    - Semi-Finalist KDS A Hikari Tamura(5), Takua Baba(6)
 - JPDU Autumn Tournament 
-    - Grand Finalist Eisuke Aoyagi(7)
+    - Grand Finalist Hit-U C Eisuke Aoyagi(7)
+        - https://youtu.be/UV1aPQDIaVU?t=1111
     - Semi Finalist Takua Baba(6)
-- Japan BP
-    - Champion Hikari Tamura(5)
+    - Best Adj Hikari Tamura
+
+- Japan BP 2018 
+    - Champion Chrono Diver -PENDULUMs- Hikari Tamura(5)
+    - Quarter Finalist JJYMMT Takua Baba(6)
+
+- Gemini cup 2018
+    - Semi Finalist KDS Z Takua Baba
+    - Best Speaker Takua Baba
+
+
+- The Kansai 2018
+    - Grand Finalist Utsunomiya A Hikari Tamura
+    - Semi Finalist ボクとババとクボ Takua Baba
+    - Best Sperker Hikari Tamura
+
+- ICUT 2018
+    - Semi Finalist T.M. Revolution Hikari Tamura
+    - Oct Finalist KDS E Takua Baba 
+
+- Debate no Susume lesson 14
+    - Quarter Finalist コードギアスス反逆の化け物高校生 Takua Baba 
+
+- Kuala lumpur Open Challenge
+    - Semi Finalist Takua Baba
+
+- NEAO 
+    - DCA Hikari Tamura
+
+- Taiwan Debate Open 2017
+    - Open Quarter Finalist Keio A Takua Baba
 
 ***
 ## 2017
 - Dutch WUDC 2017 EFL Semi-Finalist Keio B Hikari Tamura(5)
-    - [Semi Final Video](https://youtu.be/S6xjRDDrve4?t=2958)
+    - [Video](https://youtu.be/S6xjRDDrve4?t=2958)
 - JPDU Spring Tournament 
     - Semi-Finalist Hikari Tamura(5)
+    - Semi-Finalist Kiyoshi Kawakami(4)
  
 - JPDU Autumn Tournament 
     - Champion Hikari Tamura(5)
 - Japan BP
 
+- Gemini Cup 2017
+
+- The Kansai 2017
+    - Champion らぶせくしーくろびかりめがねず Hikari Tamura(5)
+    - Quarter Finalist Kiyoshi Kawakami(4)
+
+- ICUT 2017
+    - Semi-finalist (Blank) Kiyoshi Kawakami & Hikari Tamura
+
+- Solbridge NEAO
+    - pen Quarter Finalist Hikari Tamura(5)
+
 
 
 ***
 ## 2016
-- JPDU Autumn Tournament Grand Finalist Hikari Tamura(5)
+
+- JPDU Spring Tournament 2016
+    - Octo finalist Kiyoshi Kawakami(4)
+- JPDU Autumn Tournament 2016 Grand Finalist Hikari Tamura(5)
 
 ***
 ## 2015
@@ -146,10 +187,18 @@ OBの主な実績を確認することができます
 - The Kansai 
 
 
-
 ***
 ## 2014
+- BP Novice 2014 
+    - Champion Haruki Koma(4)
 
+- The Kansai 2014
+    - Quarter finalist Kiyoshi Kawakami(4)
+- ICUT 2014
+    - Octo finalist Kiyoshi Kawakami(4)
+
+- Taiwan NEAO 2014 
+    - EFL Semi Finalist Kiyoshi Kawakami(4)
 
 ***
 ## 2013
