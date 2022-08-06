@@ -1,14 +1,15 @@
 baseURL = 'https://jhuizinga.github.io/github.io/'
 languageCode = 'ja-jp'
-title = 'UTK English Debate'
+title = 'UTK English debate'
 theme = "beautifulhugo"
 
 
 
 [Author]
-name = "Uyu"
-twitter = "megalorrountas"
-mastodon = "mstdn.maud.io/web/@uyu"
+name = "Mayoi Hachikuji"
+twitter = "englishUTKdeba"
+instagram = "utk_englishdebate"
+
 
 [params]
 subtitle = "Yatte!"
@@ -23,8 +24,9 @@ since = 2010
   useHLJS = true
   delayDisqus = true
 
+
 [[Params.bigimg]]
- src = "images/gencho.jpg"
+ src = "images/akarenga.jpg"
  desc = ""
 
 [params.home]
@@ -49,7 +51,7 @@ facebook = true
 
 [[menu.main]]
     parent = "Arisaka"
-    name = "About"
+    name = "英語部"
     url = "/about/"
     weight = 1
 
