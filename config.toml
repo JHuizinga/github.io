@@ -1,6 +1,6 @@
 baseURL = 'https://jhuizinga.github.io/github.io/'
 languageCode = 'ja-jp'
-title = 'Arisaka Dynasty'
+title = 'UTK English Debate'
 theme = "beautifulhugo"
 
 
@@ -15,12 +15,17 @@ subtitle = "Yatte!"
 showRSSButton = false
 fadeIn = false
 dateFormat = "2006/01/02"
-#email = "asojae1894@gmail.com"
+since = 2010
+#email = ""
   comments = true
   readingTime = true
   wordCount = true
   useHLJS = true
   delayDisqus = true
+
+[[Params.bigimg]]
+ src = "images/gencho.jpg"
+ desc = ""
 
 [params.home]
 localTime = true
@@ -90,7 +95,6 @@ facebook = true
 
 [markup.goldmark.renderer]
       unsafe = true
-
 
 
     

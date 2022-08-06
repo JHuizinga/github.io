@@ -3,7 +3,7 @@
 title: "OB"
 date: 2022-08-03T18:15:22+09:00
 author: "Uyu"
-
+bigimg: [{src: "", desc: ""}]
 ---
 
 OBの主な実績を確認することができます。
@@ -171,6 +171,11 @@ OBの主な実績を確認することができます。
 
 - Solbridge NEAO
     - pen Quarter Finalist Hikari Tamura(5)
+
+-  **Krabi ABP 2017** 
+    - **EFL Champion Hikari Tamura** 
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/E65GbjASVwA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 
