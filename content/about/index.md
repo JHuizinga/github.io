@@ -17,14 +17,15 @@ weight:
 ## 英語部
 英語ディベートを主な活動内容とし、HEnDA, HPDU, Schoolsなどの形式に取り組んでいます。
 
-### 1. 活動内容
-- HEnDA
-- Parliamentary Debate
-- Schools
+## 1. 活動内容
+- ## HEnDA
+- ## Parliamentary Debate
+- ## PDA
+- ## Schools
 
 
-### 2. History
-- 設立
-- 赤レンガ杯
+## 2. History
+- ## 設立
+- ## 赤レンガ杯
 
 

@@ -21,32 +21,34 @@ author: "Uyu"
 ***
 
 ## 2021
-- JPDU Spring Tournament 
+- JPDU Spring Tournament 2021
     - Champion Takua Baba(6)
-- JPDU Autumn Tournament 
+    - Quarter finalist Kosei Masube(7), Tsubasa Ito(8)
 
-- Japan BP
+- Japan BP 2021
     - TD Ryoga Maeda(8)
 
-- The Kansai 
+- The Kansai 2021
     - Semi Finalist Tsubasa Ito(8)
     - CA Hikari Tamura(5)
     - TD Kosei Masube(7)
 
-- Keio Debate Open 
+- Keio Debate Open 2021 
     - Grand Finalist Hikari Tamura(5)
     - TD Ritsu Murata(7)
 
-- ICUT 2021
+- ICUT 30th
     - Champion Hikari Tamura(5)
 
 - **Nepal Australs 2021** 
     - **ESL Quarterfinalist Keio 1 Takua Baba(6)**
+
 - **Shanghai-SIDO Hanoi ABP 2020**
     - **Open Octofinalist Takua Baba(6)**
 
-- Doxbridge Worlds
-    - Open Octofinalist Takua Baba(6)
+- **Doxbridge Worlds**
+    - **Open Octofinalist Takua Baba(6)**
+    <iframe width="400" height="225" src="https://www.youtube.com/embed/fQWCiId4ZIg?start=3940" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - IIT Bombay 
     - Open Semifinalist Takua Baba(6)
@@ -59,6 +61,9 @@ author: "Uyu"
 
 ***
 ## 2020
+- JUDC Online
+    - Champion Hikari Tamura(5)
+
 - JPDU Autumn Tournament
     - Semi finalist Kosei Masube(7)
     
@@ -67,7 +72,10 @@ author: "Uyu"
     - Quarter finalist Kosei Masube(7)
     - Pre Quarter finalist Ritsu Murata(7)
 
-- **UADC 2020** 
+- Gemini Cup 2020
+    - Champion Tsubasa Ito(8)
+
+- **Bangladesh UADC 2020** 
     - **DCA Hikari Tamura(5)**
 
 - **Malaysia ABP 2020** 
@@ -80,26 +88,45 @@ author: "Uyu"
 
 
 
-
-
 ***
 ## 2019
-- **Cape Town WUDC 2019 EFL Champion Keio A Takua Baba(6)**
+- **Cape Town WUDC 2019**
+    - **EFL Champion Keio A Takua Baba(6)**
     <iframe width="400" height="225" src="https://www.youtube.com/embed/vE2GwaPYknY?start=2001" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 - JPDU Spring Tournament 
     - Champion Hikari Tamura(5)
+    - DCA Takua Baba
+
 - JPDU Autumn Tournament 
     - CA Hikari Tamura(5)
     - Grand Finalist Mashu Kobayashi(7)
+    - Quarter finalist Masahito Nakamichi(7)
+    - Best Speaker Mashu Kobayashi
+
 - Japan BP
     - Open Quarterfinalist Mashu Kobayashi(7)
-- The Kansai 
+
+- The Kansai 2019
+    - Quarter finalist Hikari Tamura & Mashu Kobayashi & Eisuke Aoyagi
+
+- Debate no Susume Lesson 15
+    - Champion Hikari Tamura
+    - Quarter Finalist Mashu Kobayashi
+    - Best Speaker Hikari Tamura
+
+
+- Gemini Cup 2019
+    - Quarter finalist Masahito Nakamichi(7)
+    - Oct finalist Mashu Kobayashi(7), Tsubasa Ito(8)
+    - Best Speaker Mashu Kobayashi
 
 - NEAO 2019
     - Open Semifinalist Takua Baba(6)
     - Open Quarterfinalist Mashu Kobayashi(7)
+
+
 - **Yogyakarta ABP 2019**
     - **EFL Grandfinalist Hikari Tamura(5) & Mashu Kobayashi(7)**
 
@@ -140,27 +167,33 @@ author: "Uyu"
 - Kuala lumpur Open Challenge
     - Semi Finalist Takua Baba
 
-- NEAO 
+- Guangzhou NEAO 2018 
     - DCA Hikari Tamura
-
-- Taiwan Debate Open 2017
-    - Open Quarter Finalist Keio A Takua Baba
 
 ***
 ## 2017
-- **Dutch WUDC 2017 EFL Semi-Finalist Keio B Hikari Tamura(5)**
+- **Dutch WUDC 2017**
+    - **EFL Semi-Finalist Keio B Hikari Tamura(5)**
     <iframe width="400" height="225" src="https://www.youtube.com/embed/S6xjRDDrve4?start=2958" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- JPDU Spring Tournament 
+-  **Krabi ABP 2017** 
+    - **EFL Champion Hikari Tamura** 
+    <iframe width="400" height="225" src="https://www.youtube.com/embed/E65GbjASVwA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+- JPDU Spring Tournament 2017
     - Semi-Finalist Hikari Tamura(5)
     - Semi-Finalist Kiyoshi Kawakami(4)
  
-- JPDU Autumn Tournament 
+- JPDU Autumn Tournament 2017
     - Champion Hikari Tamura(5)
 
-- Japan BP
+- Japan BP 2017
+    - Oct finalist Takua Baba
 
 - Gemini Cup 2017
+    - Oct finalist Takua Baba
+    - Best Speaker Takua Baba
 
 - The Kansai 2017
     - Champion らぶせくしーくろびかりめがねず Hikari Tamura(5)
@@ -170,11 +203,12 @@ author: "Uyu"
     - Semi-finalist (Blank) Kiyoshi Kawakami & Hikari Tamura
 
 - Solbridge NEAO
-    - pen Quarter Finalist Hikari Tamura(5)
+    - Open Quarter Finalist Hikari Tamura(5)
+- KIDA Open 
+    - Pre semi finalist Hikari Tamura
 
--  **Krabi ABP 2017** 
-    - **EFL Champion Hikari Tamura** 
-    <iframe width="400" height="225" src="https://www.youtube.com/embed/E65GbjASVwA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- Taiwan Debate Open 2017
+    - Open Quarter Finalist Keio A Takua Baba
 
 
 
@@ -183,8 +217,12 @@ author: "Uyu"
 ## 2016
 
 - JPDU Spring Tournament 2016
-    - Octo finalist Kiyoshi Kawakami(4)
+    - Oct finalist Kiyoshi Kawakami(4)
 - JPDU Autumn Tournament 2016 Grand Finalist Hikari Tamura(5)
+
+- Gemini Cup 2016
+    - Champion Hikari Tamura
+
 
 ***
 ## 2015
@@ -202,10 +240,9 @@ author: "Uyu"
 - The Kansai 2014
     - Quarter finalist Kiyoshi Kawakami(4)
 - ICUT 2014
-    - Octo finalist Kiyoshi Kawakami(4)
+    - Oct finalist Kiyoshi Kawakami(4)
 
 - Taiwan NEAO 2014 
     - EFL Semi Finalist Kiyoshi Kawakami(4)
 
-***
-## 2013
+

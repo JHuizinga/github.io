@@ -53,7 +53,7 @@ Almi_Can
 ---
 ### 8代目
  
-
+Tsubasa Ito :ramen:
 
 
 ---
