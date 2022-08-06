@@ -57,7 +57,7 @@ bigimg: [{src: "henda.jpg", desc: ""}]
     - **HEnDA Nationals 2012** 
         - Breaking 2nd
         - **優勝** 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/2MWhXEwnhbI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="400" height="225" src="https://www.youtube.com/embed/2MWhXEwnhbI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
  - Schools
@@ -86,7 +86,7 @@ bigimg: [{src: "henda.jpg", desc: ""}]
     - HEnDA Nationals 2014 
         - Breaking 1st
         - 準優勝
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/bQAOSxBVoK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="400" height="225" src="https://www.youtube.com/embed/bQAOSxBVoK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Schools
     - **WSDC Thailand** 
@@ -104,7 +104,7 @@ bigimg: [{src: "henda.jpg", desc: ""}]
 
 - Schools
     - **WSDC Team Japan**
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/TIt0iZWCpzc?start=1116" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="400" height="225" src="https://www.youtube.com/embed/TIt0iZWCpzc?start=1116" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 - Others
@@ -125,11 +125,11 @@ bigimg: [{src: "henda.jpg", desc: ""}]
     - HEnDA Nationals 2016 in 茨城
         - Breaking 2nd
         - 準優勝 
-         <iframe width="560" height="315" src="https://www.youtube.com/embed/dErZyer9eVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+         <iframe width="400" height="225" src="https://www.youtube.com/embed/dErZyer9eVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Schools
     - **WSDC Team Japan**
-       <iframe width="560" height="315" src="https://www.youtube.com/embed/9lMrHy1jIEc?start=1271" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       <iframe width="400" height="225" src="https://www.youtube.com/embed/9lMrHy1jIEc?start=1271" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     - YTN-HUFS Youth English Debating Championship Quarter Finalst
 
@@ -166,7 +166,7 @@ bigimg: [{src: "henda.jpg", desc: ""}]
 
     - HEnDA Nationals 2018 in 福井
         - 3rd
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/ClRBlian4rw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="400" height="225" src="https://www.youtube.com/embed/ClRBlian4rw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  - Schools
     
@@ -187,7 +187,7 @@ bigimg: [{src: "henda.jpg", desc: ""}]
     - Nationals
         - **HEnDA 2019 in 群馬**
             - **Champion**
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/VNMhbDfNpBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="400" height="225" src="https://www.youtube.com/embed/VNMhbDfNpBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Schools
     - 3rd JWSDC 5th 宇高1 & 2

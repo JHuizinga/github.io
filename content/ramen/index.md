@@ -20,19 +20,19 @@ figure shortcodeをいじったら壊れたので、治るまでraw HTMLで書�
 
 
 
-<h3>栃木県本部</h3>
+<h2>栃木県本部</h2>
 
-- #### 元町家
+- ### 元町家
 
 <figure>
-  <img src="motomachi.jpg"/>
+  <img src="motomachi.jpg"width=400 />
   <figcaption>
       <h5>聖地</h5>
   </figcaption>
 </figure>
 
 <figure>
-  <img src="img/motomachinami.jpg"/>
+  <img src="img/motomachinami.jpg" width=400 />
   <figcaption>
       <h5>並キャベツ九条ネギ</h5>
   </figcaption>
@@ -46,7 +46,7 @@ figure shortcodeをいじったら壊れたので、治るまでraw HTMLで書�
 - #### ガジロー
 
 <figure>
-  <img src="img/gajiro.jpg"/>
+  <img src="img/gajiro.jpg" width=400/>
   <figcaption>
       <h5>まぜそば中小豚</h5>
   </figcaption>
@@ -55,7 +55,7 @@ figure shortcodeをいじったら壊れたので、治るまでraw HTMLで書�
 
 - #### ハイマウント
 
-{{< figure src="img/highmount.jpg" title="" class="center" >}}
+{{< figure src="img/highmount.jpg" title="" class="center" width=400 >}}
 
 
 
@@ -66,25 +66,25 @@ figure shortcodeをいじったら壊れたので、治るまでraw HTMLで書�
 
 - #### 麺屋こころ
 
-{{< figure src="img/kokor.jpg" title="台湾まぜそば玉ねぎ" class="center"  >}}
+{{< figure src="img/kokor.jpg" title="台湾まぜそば玉ねぎ" class="center" width=400 >}}
 
 - #### 豚山(元住吉)
 
-{{< figure src="img/butayama.jpg" title="小豚" class="center" >}}
+{{< figure src="img/butayama.jpg" title="小豚" class="center" width=400 >}}
 
 - #### 豚星
 
-{{< figure src="img/butaboshi.jpg" title="" class="center"  >}}
+{{< figure src="img/butaboshi.jpg" title="" class="center" width=400 >}}
 
 - #### どん
 
-{{< figure src="img/don.jpg" title="" class="center"  >}}
+{{< figure src="img/don.jpg" title="" class="center" width=400 >}}
 
 - #### 福仙楼(北白川)
 
-{{< figure src="img/hukusenro.jpg" title="福仙楼そば" class="center"  >}}
+{{< figure src="img/hukusenlaw.jpg" title="福仙楼そば" class="center" width=400 >}}
 
 
 - #### 池田屋(一乗寺)
 
-{{< figure src="img/ikedaya.jpg" title="小" class="center"  >}}
+{{< figure src="img/ikedaya.jpg" title="小" class="center" width=400 >}}

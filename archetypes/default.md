@@ -16,5 +16,9 @@ thumbnailImage:
 
 -->
 
+<!--figure sizeはwidth=400で統一。16:9で表示の場合height=225
+
+-->
+
 <!--more-->
 
