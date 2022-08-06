@@ -3,7 +3,6 @@
 title: "OB"
 date: 2022-08-03T18:15:22+09:00
 author: "Uyu"
-bigimg: [{src: "", desc: ""}]
 ---
 
 OBの主な実績を確認することができます。
