@@ -7,6 +7,8 @@ author: "Uyu"
 
 <!--more-->
 
+- Regional以上の大会実績を太字で表示しています
+
 ## 2022
 - The Kansai 
     - Grand Finalist Takua Baba(6)
@@ -38,16 +40,17 @@ author: "Uyu"
 - ICUT 2021
     - Champion Hikari Tamura(5)
 
-- Nepal Australs 2021 
-    - ESL Quarterfinalist Keio 1 Takua Baba(6)
-- Shanghai-SIDO Hanoi ABP 2020
-    - Open Octofinalist Takua Baba(6)
+- **Nepal Australs 2021** 
+    - **ESL Quarterfinalist Keio 1 Takua Baba(6)**
+- **Shanghai-SIDO Hanoi ABP 2020**
+    - **Open Octofinalist Takua Baba(6)**
 
 - Doxbridge Worlds
     - Open Octofinalist Takua Baba(6)
 
 - IIT Bombay 
     - Open Semifinalist Takua Baba(6)
+    
 - World Debate Open
     - Open Semi finalist Tsubasa Ito(8)
     - Open Quarter Finalist Kosei Masube(7)
@@ -64,15 +67,15 @@ author: "Uyu"
     - Quarter finalist Kosei Masube(7)
     - Pre Quarter finalist Ritsu Murata(7)
 
-- UADC 2020 
-    - DCA Hikari Tamura(5)
+- **UADC 2020** 
+    - **DCA Hikari Tamura(5)**
 
-- Malaysia ABP 2020 
-    - Open Octofinalist Keio C Takua Baba(6)
+- **Malaysia ABP 2020** 
+    - **Open Octofinalist Keio C Takua Baba(6)**
 
-- Monash Australs 2020
-    - Open Octfinalit Melbourne 1 Takua Baba(6)
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/ulFBbE3K0nM?start=510" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- **Monash Australs 2020**
+    - **Open Octfinalit Melbourne 1 Takua Baba(6)**
+    <iframe width="400" height="225" src="https://www.youtube.com/embed/ulFBbE3K0nM?start=510" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -82,7 +85,7 @@ author: "Uyu"
 ***
 ## 2019
 - **Cape Town WUDC 2019 EFL Champion Keio A Takua Baba(6)**
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/vE2GwaPYknY?start=2001" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="400" height="225" src="https://www.youtube.com/embed/vE2GwaPYknY?start=2001" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 - JPDU Spring Tournament 
@@ -97,11 +100,11 @@ author: "Uyu"
 - NEAO 2019
     - Open Semifinalist Takua Baba(6)
     - Open Quarterfinalist Mashu Kobayashi(7)
-- Yogyakarta ABP 2019
-    - EFL Grandfinalist Hikari Tamura(5) & Mashu Kobayashi(7)
+- **Yogyakarta ABP 2019**
+    - **EFL Grandfinalist Hikari Tamura(5) & Mashu Kobayashi(7)**
 
-- Australs 
-    - Braking Adjudicator Hikari Tamura(5)
+- **Bali Australs 2019** 
+    - **Braking Adjudicator Hikari Tamura(5)**
 
 ***
 ## 2018
@@ -146,7 +149,7 @@ author: "Uyu"
 ***
 ## 2017
 - **Dutch WUDC 2017 EFL Semi-Finalist Keio B Hikari Tamura(5)**
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/S6xjRDDrve4?start=2958" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="400" height="225" src="https://www.youtube.com/embed/S6xjRDDrve4?start=2958" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - JPDU Spring Tournament 
     - Semi-Finalist Hikari Tamura(5)
@@ -171,7 +174,7 @@ author: "Uyu"
 
 -  **Krabi ABP 2017** 
     - **EFL Champion Hikari Tamura** 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/E65GbjASVwA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="400" height="225" src="https://www.youtube.com/embed/E65GbjASVwA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

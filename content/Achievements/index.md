@@ -128,10 +128,10 @@ bigimg: [{src: "henda.jpg", desc: ""}]
 <iframe width="400" height="225" src="https://www.youtube.com/embed/dErZyer9eVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Schools
+    -  - YTN-HUFS Youth English Debating Championship Quarter Finalst
     - **WSDC Team Japan**
 <iframe width="400" height="225" src="https://www.youtube.com/embed/9lMrHy1jIEc?start=1271" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-    - YTN-HUFS Youth English Debating Championship Quarter Finalst
+   
 
 
 ---
