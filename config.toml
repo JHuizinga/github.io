@@ -1,4 +1,4 @@
-baseURL = 'https://jhuizinga.github.io/github.io/'
+baseURL = 'http://utkenglishdebate.org/'
 languageCode = 'ja-jp'
 title = 'UTK English debate'
 theme = "beautifulhugo"

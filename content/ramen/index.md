@@ -6,7 +6,7 @@ description: ""
 tags: ["ramen"]
 author: "Uyu"
 weight: 
-bigimg: [{src: "motomachi.jpg", desc: ""}]
+bigimg: [{src: "img/motomachi.jpg", desc: ""}]
 ---
 
 
