@@ -1,4 +1,4 @@
-baseURL = 'http://utkenglishdebate.org/'
+baseURL = 'https://utkenglishdebate.org/'
 languageCode = 'ja-jp'
 title = 'UTK English debate'
 theme = "beautifulhugo"
@@ -64,8 +64,20 @@ facebook = true
 
 
 [[menu.main]]
-    url = "member/"
+    identifier = "yoshida"
+    name = "Almuni"
+    weight = 2
+
+[[menu.main]]
+    parent = "yoshida"
+    name = "Almuni"
+    url = "/almuni/"
+    weight = 1
+
+[[menu.main]]
+    parent = "yoshida"
     name = "Members"
+    url = "member/"
     weight = 2
 
 [[menu.main]]
@@ -91,10 +103,19 @@ facebook = true
     weight = 5
 
 [[menu.main]]
-    name = "Almuni"
-    url = "/almuni/"
-    weight = 10
+    identifier = "owada"
+    name = "resources"
+    weight = ""
 
+[[menu.main]]
+    parent = "owada"
+    name = "Motions"
+    url = "motions/"
+
+[[menu.main]]
+    parent ="owada"
+    name = "lecture"
+    url = "lecture/"
 
 [markup.goldmark.renderer]
       unsafe = true
