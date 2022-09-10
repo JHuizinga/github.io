@@ -54,7 +54,15 @@ figure shortcodeをいじったら壊れたので、治るまでraw HTMLで書�
 
 <h2>県外支部</h2>
 
+
+
 - ### 青葉(大宮)
+
+- ### 千里眼(駒場)
+{{< figure src="img/senrigan.jpg" title="ラーメン小" class="center" width=400 >}}
+
+- ### 小滝橋二郎
+{{< figure src="img/kotakibashi.jpg" title="ラーメンニンニク" class="center" width=400 >}}
 
 - ### 麺屋こころ(日吉)
 
